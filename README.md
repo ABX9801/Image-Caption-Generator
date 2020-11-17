@@ -1,2 +1,2 @@
 # Image-Caption-Generator
-A Web App to generate caption for Images.
+A Web App to generate caption for Images .
