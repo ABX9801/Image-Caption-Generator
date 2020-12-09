@@ -8,3 +8,5 @@ A Web App to generate caption for Images.
  - start making prototype of webpage
  - backend o be done on flask
  - to be deployed on cloud.
+
+- model.h5 and feature_mapping.pkl are large files
