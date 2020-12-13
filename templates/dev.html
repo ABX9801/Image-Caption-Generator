@@ -1,0 +1,61 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+developer
+{% endblock %}
+
+{% block style %}
+<style>
+
+    #card{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .fa {
+        padding: 8px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+    .fa-linkedin {
+        background: #007bb5;
+        color: white;
+    }
+    .fa-instagram {
+        background: #bd1748;
+        color: white;
+    }
+    .fa-facebook {
+        background: #3B5998;
+        color: white;
+    }
+</style>
+{% endblock %}
+
+{% block body %}
+<center>
+    <div id = "card">
+        <div class="card" style="width: 18rem;">
+            <img src="static/images/prof.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Anurag</h5>
+              <p class="card-text">Hi I am Anurag. I am currently pursuing my B-Tech in Computer Science and Engineering from Vellore Institute of Technology.</p>
+              <a class="github-button" href="https://github.com/ABX9801" aria-label="Follow @ABX9801 on GitHub">Follow @ABX9801</a>
+            </div>
+        </div>
+    </div>
+    <div id="social">
+        <a href="https://www.linkedin.com/in/anurag-bhardwaj-628617177/" class="fa fa-linkedin"></a>
+        <a href="https://www.instagram.com/anuragbhardwaj_01/" class="fa fa-instagram"></a>
+        <a href="https://www.facebook.com/anurag.bhardwaj.108/" class="fa fa-facebook"></a>
+        
+    </div>
+</center>
+{% endblock %}
