@@ -7,3 +7,15 @@ A Web App to generate caption for Images. VGG-16 Model is used to encode the ima
 ## Screenshots of the flask App
 - homepage
 <img src = "screenshots/home.PNG" width = 50%>
+
+- application page
+<img src = "screenshots/cap.PNG" width = 50%>
+
+- output
+<img src = "screenshots/Capture.PNG" width = 50%>
+
+-developer page
+<img src = "screenshots/developer.PNG" width = 50%>
+
+## Video Demo
+<img src = "screenshots/vdo.gif" width = 50%>
