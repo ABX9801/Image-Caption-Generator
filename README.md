@@ -14,7 +14,7 @@ A Web App to generate caption for Images. VGG-16 Model is used to encode the ima
 - output
 <img src = "screenshots/Capture.PNG" width = 50%>
 
--developer page
+- developer page
 <img src = "screenshots/developer.PNG" width = 50%>
 
 ## Video Demo
