@@ -3,3 +3,7 @@ A Web App to generate caption for Images. VGG-16 Model is used to encode the ima
 
 ## Model
 <img src = "https://raw.githubusercontent.com/yunjey/pytorch-tutorial/master/tutorials/03-advanced/image_captioning/png/model.png" width = 50%>
+
+## Screenshots of the flask App
+- homepage
+<img src = "screenshots/home.PNG" width = 50%>
