@@ -38,5 +38,5 @@ flask run
 - The website will run on this link
 
 <center>
-  <img src = "static/images/logo.png">
+  <img src = "static/images/logo.png" width = 20px>
 </center>
